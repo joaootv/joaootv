@@ -20,10 +20,18 @@ Olá! Eu sou o João Otávo,
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="40"/>  -->
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="40" width="40"/>
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" height="40" width="40"/>
+  <img align = "center" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" alt="Apache Maven" width="40" height="40"/>
+  <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" width="40"/>
+  <img align = "center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></code>
+  <img align = "center" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="Swagger - Open API" width="40" height="40"/></code>
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" height="40" width="40"/>
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" height="40" width="40"/>
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" height="40" width="40"/>
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="40" width="40"/>
+  <img align = "center" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL" width="40" height="40"/></code>
+  <img align = "center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres SQL" width="40" height="40"/>
+  <img align = "center" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
+  <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT"  width="40" height="40"/>
 
  
 </div>  
