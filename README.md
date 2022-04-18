@@ -30,8 +30,8 @@ Olá! Eu sou o João Otávo,
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="40" width="40"/>
   <img align = "center" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL" width="40" height="40"/></code>
   <img align = "center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres SQL" width="40" height="40"/>
-  <img align = "center" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
-  <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT"  width="40" height="40"/>
+<!--   <img align = "center" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
+  <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT"  width="40" height="40"/> -->
 
  
 </div>  
