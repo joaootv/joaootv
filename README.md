@@ -22,6 +22,7 @@ Olá! Eu sou o João Otávo,
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" height="40" width="40"/>
 <!--   <img align = "center" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" alt="Apache Maven" width="40" height="40"/> -->
   <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" width="40"/>
+  <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NETCORE" height="40" width="40"/>
   <img align = "center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></code>
   <img align = "center" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="Swagger - Open API" width="40" height="40"/></code>
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" height="40" width="40"/>
