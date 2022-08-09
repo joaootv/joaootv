@@ -1,7 +1,7 @@
 Olá! Eu sou o João Otávo,
 
  - Estudante de Análise e Desenvolvimento de Sistemas 
- - Estágiario de Desenvolvimento Full Stack na <a href="https://www.novakio.com.br/site" target="_blank">Novakio</a>;
+ - Desenvolvedor Full Stack na <a href="https://www.novakio.com.br/site" target="_blank">Novakio</a>;
  - 19 anos.
  
 <div align="center">
