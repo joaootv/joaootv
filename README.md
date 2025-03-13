@@ -1,7 +1,7 @@
 Olá! Eu sou o João Otávo,
 
- - Estudante de Análise e Desenvolvimento de Sistemas 
- - 19 anos.
+ - Desenvolvedor de Sistemas 
+ - 22 anos.
  
 <div align="center">
  <a href="https://github.com/joaootv">
